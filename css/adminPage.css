@@ -1,0 +1,55 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  margin-bottom: 100px;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+.update,
+.delete {
+  width: 80px;
+  height: 30px;
+  background-color: rgb(232, 117, 117);
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.update a {
+  text-decoration: none;
+  color: black;
+}
+.delete {
+  background-color: cornflowerblue;
+}
+.add {
+  width: 180px;
+  height: 60px;
+  background-color: cornflowerblue;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  float: right;
+  position: relative;
+  top: 50px;
+  right: 50px;
+  font-size: 20px;
+  color: white;
+  box-shadow: 0px 2px 5px 2px rgb(155, 152, 152);
+}
+.add a {
+  text-decoration: none;
+  color: black;
+}

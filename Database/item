@@ -1,0 +1,223 @@
+
+ [
+    {
+      "id":1,
+      "name":"1 BHK Royal Package for Bachelors",
+      "image_link":"https://img.freepik.com/free-photo/gray-sofa-brown-living-room-with-copy-space_43614-954.jpg?w=900&t=st=1695216791~exp=1695217391~hmac=b498a4acec3c6c910ec306ff56afc5cb685daf332b6b1c98fa7f764fcecaf723",
+      "rating":2132,
+      "price":564,
+      "unitPrice":564,
+      "discount":"20% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+    {
+      "id":2,
+      "name":"1 BHK Royal Package for Partners",
+      "image_link":"https://img.freepik.com/free-photo/picture-frame-wall-with-scandinavian-home-interior_53876-139779.jpg?w=996&t=st=1695216905~exp=1695217505~hmac=93fcaa1ca4e8c915de3afd301bc7c3bbbf1a97ea0f4f6c578f195d6c58cdce55",
+      "rating":1152,
+      "price":5111,
+      "unitPrice":5111,
+      "discount":"20% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":3,
+      "name":"1 BHK Royal Package for Family",
+      "image_link":"https://img.freepik.com/free-photo/mid-century-modern-living-room-interior-design-with-monstera-tree_53876-129803.jpg?w=996&t=st=1695217528~exp=1695218128~hmac=eaf10f9a817c0b4f49144b2a01b66e10c228e499e48772885125943f879af64e",
+      "rating":315,
+      "price":1615,
+      "unitPrice":1615,
+      "discount":"30% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":4,
+      "name":"Minimal Chair",
+      "image_link":"https://img.freepik.com/free-photo/green-sofa-white-living-room-with-free-space_43614-834.jpg?w=900&t=st=1695217558~exp=1695218158~hmac=6b8e8c5035617eacdd8655ac34a0d53f560e503b8058f106b06cf4e1eefe303c",
+      "rating":157,
+      "price":851,
+      "unitPrice":851,
+      "discount":"20% OFF",
+      "tag":"chair",
+      "quantity":1
+    },
+      {
+      "id":5,
+      "name":"1 BHK Royal Package for Family",
+      "image_link":"https://img.freepik.com/free-photo/stylish-scandinavian-living-room-with-design-mint-sofa-furnitures-mock-up-poster-map-plants-eleg_1258-152155.jpg?w=1380&t=st=1695217600~exp=1695218200~hmac=82c630ab2515c3afb39d8ad650f209b371e0ff446a784f06f45c2b8adeda2540",
+      "rating":644,
+      "price":9111,
+      "unitPrice":9111,
+      "discount":"10% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":6,
+      "name":"2 Seater Sofa",
+      "image_link":"https://img.freepik.com/free-photo/gray-sofa-white-living-room-interior-with-copy-space-3d-rendering_43614-802.jpg?w=1060&t=st=1695217641~exp=1695218241~hmac=e38892dc8d83b861caf53ff7103dade6c12d03891b2da3f3302a5ebfde1d639a",
+      "rating":665,
+      "price":561,
+      "unitPrice":561,
+      "discount":"20% OFF",
+      "tag":"sofa",
+      "quantity":1
+    },
+      {
+      "id":7,
+      "name":"Velvet Armchair",
+      "image_link":"https://img.freepik.com/free-photo/picture-frame-by-velvet-armchair_53876-132788.jpg?w=360&t=st=1695217691~exp=1695218291~hmac=cea71c1c1db963f3752e36dd1fa50b3d7f382a76a6981d9d72043274f3e57bad",
+      "rating":1152,
+      "price":313,
+      "unitPrice":313,
+      "discount":"40% OFF",
+      "tag":"chair",
+      "quantity":1
+    },
+      {
+      "id":8,
+      "name":"1 BHK Royal Package for Partners",
+      "image_link":"https://img.freepik.com/free-photo/living-room-mid-century-style-with-warm-colors-ai-generative_123827-23931.jpg?w=996&t=st=1695217743~exp=1695218343~hmac=b3f6606ab513a878181322b0c6155fbc12c20c86428bfddee9209a3086940080",
+      "rating":622,
+      "price":6111,
+      "unitPrice":6111,
+      "discount":"20% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":9,
+      "name":"1 BHK Royal Package for Bachelors",
+      "image_link":"https://img.freepik.com/free-photo/mockup-frames-living-room-interior-with-chair-decorscandinavian-style_41470-5148.jpg?w=740&t=st=1695217779~exp=1695218379~hmac=85f749de4e623f0af1e8a20788169bd1a23874ec3b808fa4d2e1408d46750118",
+      "rating":321,
+      "price":1122,
+      "unitPrice":1122,
+      "discount":"50% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":10,
+      "name":"1 BHK Royal Package for Partners",
+      "image_link":"https://img.freepik.com/free-photo/interior-design-with-photoframes-couch_23-2149385435.jpg?w=996&t=st=1695217821~exp=1695218421~hmac=1944e4ef4c0e25ce40a97cdf48a817f2a96795f9f2bc10486db3e042131863ae",
+      "rating":151,
+      "price":125,
+      "unitPrice":125,
+      "discount":"20% OFF",
+      "tag":"package",
+      "quantity":1
+    },
+      {
+      "id":11,
+      "name":"Bedroom for Partners",
+      "image_link":"https://img.freepik.com/free-psd/realistic-bright-modern-double-bedroom-with-furniture_176382-456.jpg?w=1060&t=st=1695217879~exp=1695218479~hmac=0d6527225f3e3fc71583552f20ccbe69106afe793acc2ec508d547423e3c2c49",
+      "rating":515,
+      "price":1120,
+      "unitPrice":1120,
+      "discount":"20% OFF",
+      "tag":"room",
+      "quantity":1
+    },
+      {
+      "id":12,
+      "name":"Kitchen Room for Family",
+      "image_link":"https://img.freepik.com/free-photo/minimalist-modern-white-kitchen-with-wooden-floor-natural-light-interior-design-ai-generative_123827-23490.jpg?w=996&t=st=1695217921~exp=1695218521~hmac=00b022cd3704c4fc03cd5c22bd28c2f8d59cba32cfe315761363b06ddbcb12a3",
+      "rating":1132,
+      "price":1221,
+      "unitPrice":1221,
+      "discount":"20% OFF",
+      "tag":"room",
+      "quantity":1
+    },
+      {
+      "id":13,
+      "name":"Computer Table",
+      "image_link":"https://img.freepik.com/free-photo/business-desk-concept-with-laptop_23-2149073032.jpg?w=996&t=st=1695218061~exp=1695218661~hmac=9269cea2e4e4a1d5f92a54198ffaadd1c3ed574fabd54d3254c1adf1e68fa603",
+      "rating":5151,
+      "price":1000,
+      "unitPrice":1000,
+      "discount":"20% OFF",
+      "tag":"table",
+      "quantity":1
+    },
+      {
+      "id":14,
+      "name":"Bed for Partners",
+      "image_link":"https://img.freepik.com/free-photo/beautiful-bed-middle-bedroom_23-2148982015.jpg?size=626&ext=jpg&uid=R116779415&ga=GA1.2.1510566008.1693293482&semt=sph",
+      "rating":885,
+      "price":552,
+      "unitPrice":552,
+      "discount":"20% OFF",
+      "tag":"room",
+      "quantity":1
+    },
+      {
+      "id":15,
+      "name":"Office Shelves",
+      "image_link":"https://img.freepik.com/free-photo/high-angle-desk-arrangement-with-plants_23-2149383630.jpg?w=996&t=st=1695218224~exp=1695218824~hmac=3a418fcc28f54a963f879a7166a7e9af95bd8ca80a78c14a2093771bcb7f1fa2",
+      "rating":862,
+      "price":125,
+      "unitPrice":125,
+      "discount":"10% OFF",
+      "tag":"table",
+      "quantity":1
+    },
+      {
+      "id":16,
+      "name":"Dinning Table for Family",
+      "image_link":"https://img.freepik.com/premium-photo/3d-rendering-modern-living-room-interior-design-inspiration_674881-1711.jpg",
+      "rating":523,
+      "price":222,
+      "unitPrice":222,
+      "discount":"40% OFF",
+      "tag":"table",
+      "quantity":1
+    },
+      {
+      "id":17,
+      "name":"Dinning table for Family",
+      "image_link":"https://img.freepik.com/premium-photo/wooden-table-chair-modern-dinning-room-home-interior-dinning-room-home_73503-912.jpg?w=996",
+      "rating":66,
+      "price":1210,
+      "unitPrice":1210,
+      "discount":"20% OFF",
+      "tag":"table",
+      "quantity":1
+    },
+      {
+      "id":18,
+      "name":"Sofa for Partners",
+      "image_link":"https://img.freepik.com/free-photo/gray-sofa-white-living-room_43614-796.jpg?t=st=1695218486~exp=1695219086~hmac=050a76b39cc7af073c0f9a786d4c3b0033ac5618737c52430701bd70198d1732",
+      "rating":12,
+      "price":102,
+      "unitPrice":102,
+      "discount":"20% OFF",
+      "tag":"sofa",
+      "quantity":1
+    },
+      {
+      "id":19,
+      "name":"Dinning Table for Partners",
+      "image_link":"https://img.freepik.com/free-photo/modern-luxury-authentic-dining-room-interior-design_53876-126791.jpg?t=st=1695218355~exp=1695218955~hmac=42f827ef394a23dd475e7daec30d2aeae7177f5cbd7fb4fdb61c3b80091eb9f4",
+      "rating":1205,
+      "price":215,
+      "unitPrice":215,
+      "discount":"70% OFF",
+      "tag":"table",
+      "quantity":1
+    },
+      {
+      "id":20,
+      "name":"Dinning Table for Family",
+      "image_link":"https://img.freepik.com/free-photo/delicious-breakfast-with-bananas-white-table_23-2148981996.jpg?t=st=1695218355~exp=1695218955~hmac=c6b40c01fd0ce073391985bfd6a6b0d977947658a2796cf19b69ae420b5bc379",
+      "rating":1610,
+      "price":102,
+      "unitPrice":102,
+      "discount":"90% OFF",
+      "tag":"table",
+      "quantity":1
+    }
+  ]
